@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I plan to rewrite this library very soon. Stay tuned.
+
 ![Banner](./.github/assets/banner.png)
 
 <p align="center">
